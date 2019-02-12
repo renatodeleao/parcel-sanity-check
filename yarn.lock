@@ -725,10 +725,10 @@
   resolved "https://registry.yarnpkg.com/@types/semver/-/semver-5.5.0.tgz#146c2a29ee7d3bae4bf2fcb274636e264c813c45"
   integrity sha512-41qEJgBH/TWgo5NFSvBCJ1qkoi3Q6ONSF2avrHq1LVEZfYpdHmj0y9SuTK+u9ZhG1sYQKBL1AWXKyLWP4RaUoQ==
 
-"@whitesmith/qnorr-styles@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@whitesmith/qnorr-styles/-/qnorr-styles-0.1.0.tgz#3a6cb4f72482a02b8f4740b8b2f106da9ee3a31f"
-  integrity sha512-VAhfYPLq0h2Q+ktmZQh0swNK1JEshe9kJYD3Z7OCHSLbDbnln9gs0jA/ajMgEj952xK24gZ/RP5VK+BNGvQxVA==
+"@whitesmith/qnorr-styles@^0.1.1":
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/@whitesmith/qnorr-styles/-/qnorr-styles-0.1.2.tgz#50a79e85e2be493f3ee8b355228b3c6592277b06"
+  integrity sha512-CnUenWATS/rS75dIw7k3VhYJ8mSAwhgqFjKYTjB49gMFBEWp2K/DFHvSo+Tun0qnTV91VmqN/3yZQjOnBf7qOg==
   dependencies:
     mappy-breakpoints "^0.2.3"
     normalize.css "^8.0.1"

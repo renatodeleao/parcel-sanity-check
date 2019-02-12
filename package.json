@@ -22,7 +22,7 @@
     "@babel/core": "^7.2.2",
     "@babel/preset-env": "^7.3.1",
     "@babel/register": "^7.0.0",
-    "@whitesmith/qnorr-styles": "^0.1.0",
+    "@whitesmith/qnorr-styles": "^0.1.1",
     "bootstrap": "4.3.0"
   }
 }
