@@ -1,0 +1,28 @@
+{
+  "name": "parcel-sanity-check",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:renatodeleao/parcel-sanity-check.git",
+  "author": "Renato de Leão <renatodeleao@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev:site": "parcel site/index.html --out-dir public --no-cache",
+    "build": "parcel build site/index.html --out-dir public"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.4.7",
+    "parcel-bundler": "^1.11.0",
+    "posthtml": "^0.11.3",
+    "posthtml-expressions": "^1.1.0",
+    "posthtml-extend": "^0.3.0",
+    "posthtml-modules": "^0.4.2",
+    "sass": "^1.17.0"
+  },
+  "dependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.3.1",
+    "@babel/register": "^7.0.0",
+    "@whitesmith/qnorr-styles": "^0.1.0",
+    "bootstrap": "4.3.0"
+  }
+}
